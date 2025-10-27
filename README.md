@@ -1,6 +1,8 @@
 # Network-Security-Research-Report
  A research study examining how modern network protocols enable global communication and how weaknesses within them lead to cybersecurity risks. This paper analyzes common protocol vulnerabilities and presents practical mitigation strategies that protect both organizations and end-users.
 
+View: https://drive.google.com/file/d/1lI72GijUGsGx8JVAPHU9sjz6i-NI3X15/view?usp=sharing
+
 ##  What This Research Covers
 
 Network protocols define **how devices communicate** on the internet.  
